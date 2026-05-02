@@ -1,6 +1,6 @@
 # rock-paper-scissors
 
-A simple Rock Paper Scissors game built with JAvascript. It works on browser console.
+A simple Rock Paper Scissors game built with JAvascript. 
 
 # How it works
 
@@ -8,10 +8,11 @@ A simple Rock Paper Scissors game built with JAvascript. It works on browser con
 - The computer randomky selects its chhoice 
 - The game compares both choices and decides the winner
 - Scores are tracked across rounds
-- Final result is displayed in the console
+- Final result is displayed 
 
 # How to run
 
 1. Open index.html in your browser
-2. Open the console (f12 then inspect)
-3. Play the game and view results there
+2. Click the buttons to either pick Rock, Paper, or Scissors
+3. First to reach five points wins
+4. The result will be displayed afterwards
